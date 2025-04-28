@@ -1,8 +1,6 @@
 <div id="imageContainer">
-  <img id="darkImage" src="assets/Banner Prewiew Dark.png" alt="Imagen para el tema oscuro">
+  <img id="darkImage" src="assets/banner.png" alt="Imagen para el tema oscuro">
 </div>
-
-
 
 # Acerca de mí
 
@@ -26,12 +24,13 @@
 
 Aquí en GitHub, puedes explorar algunos de mis proyectos más interesantes. ¡Espero que encuentres algo que te inspire!
 
-
 1. **Mevo Taxis**
+
    - Es una app para solicitar transporte urbano de manera virtual. Implementa Flutter para desarrollo multiplataforma y Firebase para múltiples servicios internos.
    - https://github.com/jrdeavila/Move.git
 
 2. **Sistematización de servicios internos (Club Valledupar)**
+
    - Proyecto de sistematización de servicios dentro del club. Implementando plataforma web y móvil. Ayudo a mejorar la eficiencia de los servicios de comida, reservación de áreas internas y tramites de documentos en un 80%. La plataforma web esta desarrollada en React.js con Laravel y la App móvil para socios del club está desarrollada en Flutter.
    - https://github.com/jrdeavila/club-valledupar-backend.git
    - https://github.com/jrdeavila/club_valledupar_app.git
@@ -42,10 +41,8 @@ Aquí en GitHub, puedes explorar algunos de mis proyectos más interesantes. ¡E
    - https://github.com/jrdeavila/mobile_opservapp.git
    - https://github.com/jrdeavila/admin_observapp.git
 
-
-
 ## Contacto 🔗
-- Correo Electrónico: morenojr15@hotmail.com | jrdeavila@unicesar.edu.co
 
+- Correo Electrónico: morenojr15@hotmail.com | jrdeavila@unicesar.edu.co
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. ¡Hagamos cosas increíbles juntos! 🚀
