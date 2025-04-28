@@ -4,45 +4,72 @@
 
 # Acerca de mí
 
-¡Hola! 👋 Soy Jose De Avila, un apasionado Desarrollador de Software. Me encanta crear soluciones tecnológicas que impulsen el crecimiento de los negocios a través de la innovación.
+¡Hola! 👋 Soy Jose De Ávila, un apasionado Desarrollador de Software. Me encanta crear soluciones tecnológicas que impulsen el crecimiento de los negocios a través de la innovación.
 
 ## Experiencia y Tecnologías
 
 - Desarrollo móvil con Flutter y React Native 💻📱.
-- Desarrollador en Laravel y Python (FastAPI).
-- Certificaciones en Google Cloud Platform (GPC) y Amazon Web Services (AWS).
+- Desarrollo backend con Laravel y Python (FastAPI).
+- API REST con Node.js (ExpressJS), Sequelize, y conexión a bases de datos MySQL.
+- Arquitectura de software basada en microservicios y arquitectura hexagonal.
+- Experiencia en control de versiones usando Git y trabajo en entornos Linux.
+- Conexiones WebSockets y comunicación en tiempo real.
+- Uso de AWS (S3, RDS, EC2) y Google Cloud Platform (GCP).
+- Implementación y uso de herramientas de inteligencia artificial (IA).
+- Frontend con Vue.js (Vuex), Bootstrap, HTML5, CSS3, VanillaJS y Axios.
 
 ## Educación
 
 📘 Actualmente, estoy culminando mis estudios en Ingeniería de Sistemas en la [Universidad Popular del Cesar](https://www.unicesar.edu.co).
 
-## Conecta conmigo
+Certificaciones:
 
-¡Hablemos! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/jose-ricardo-de-ávila-moreno) y [Facebook](https://www.facebook.com/jose.deavila15), donde comparto mi viaje en el mundo del desarrollo y la tecnología.
+- **Cloud Academic** - Google Cloud Escentials / AWS (Mayo 2023 - Junio 2023)
+
+## Experiencia Profesional
+
+- **Opperweb (Enero 2025 - Abril 2025)**  
+  Desarrollo backend en proyecto de gestión de renta de productos, aplicando arquitectura hexagonal y Laravel 11.
+
+- **Cámara de Comercio de Valledupar (Agosto 2024 - Agosto 2025)**  
+  Consultor en ingeniería de software para el área de inspección y vigilancia.  
+  Proyectos:
+  - Sistema de control de asistencias automatizado.
+  - Sistema de turnos multi seccional.
+  - Mantenimiento de sistema interno de procesos administrativos y de empleados.
 
 ## Proyectos Destacados
 
-Aquí en GitHub, puedes explorar algunos de mis proyectos más interesantes. ¡Espero que encuentres algo que te inspire!
-
 1. **Mevo Taxis**
 
-   - Es una app para solicitar transporte urbano de manera virtual. Implementa Flutter para desarrollo multiplataforma y Firebase para múltiples servicios internos.
-   - https://github.com/jrdeavila/Move.git
+   - App de solicitud de transporte urbano virtual.
+   - Flutter + Firebase.
+   - [Repositorio](https://github.com/jrdeavila/Move.git)
 
-2. **Sistematización de servicios internos (Club Valledupar)**
+2. **Sistematización de Servicios Internos (Club Valledupar)**
 
-   - Proyecto de sistematización de servicios dentro del club. Implementando plataforma web y móvil. Ayudo a mejorar la eficiencia de los servicios de comida, reservación de áreas internas y tramites de documentos en un 80%. La plataforma web esta desarrollada en React.js con Laravel y la App móvil para socios del club está desarrollada en Flutter.
-   - https://github.com/jrdeavila/club-valledupar-backend.git
-   - https://github.com/jrdeavila/club_valledupar_app.git
+   - Plataforma web y móvil para servicios internos.
+   - Web en React.js + Laravel; App móvil en Flutter.
+   - [Backend](https://github.com/jrdeavila/club-valledupar-backend.git) | [App móvil](https://github.com/jrdeavila/club_valledupar_app.git)
 
-3. **Observapp (Cámara de comercio de Valledupar)**
-   - Es una app que permite a comerciantes y emprendedores visualizar indicadores socioeconómicos a través de minería de datos y análisis de inteligencia de negocios. Está desarrollada en Flutter e implementa una arquitectura de microservices para el manejo de lógica de negocio.
-   - https://github.com/jrdeavila/observapp-ms.git
-   - https://github.com/jrdeavila/mobile_opservapp.git
-   - https://github.com/jrdeavila/admin_observapp.git
+3. **Observapp (Cámara de Comercio de Valledupar)**
+   - App de indicadores socioeconómicos para comerciantes y emprendedores.
+   - Arquitectura de microservicios y desarrollo en Flutter.
+   - [Microservicios](https://github.com/jrdeavila/observapp-ms.git) | [App móvil](https://github.com/jrdeavila/mobile_opservapp.git) | [Administrador web](https://github.com/jrdeavila/admin_observapp.git)
+
+## Conecta conmigo
+
+¡Hablemos! Puedes encontrarme en:
+
+- [LinkedIn](https://www.linkedin.com/in/jose-ricardo-de-ávila-moreno)
+- [Facebook](https://www.facebook.com/jose.deavila15)
 
 ## Contacto 🔗
 
-- Correo Electrónico: morenojr15@hotmail.com | jrdeavila@unicesar.edu.co
+- 📧 morenojr15@hotmail.com | jrdeavila@unicesar.edu.co
+- 📱 +57 304 224 3098
+- 💻 [GitHub](https://github.com/jrdeavila)
 
-¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. ¡Hagamos cosas increíbles juntos! 🚀
+---
+
+¡Gracias por visitar mi perfil! 🚀 Espero que encuentres interesantes mis proyectos y contribuciones. ¡Hagamos cosas increíbles juntos!
